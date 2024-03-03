@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/tanishabisht.github.io/static/css/main.e6a5d8e7.css",
+    "main.js": "/tanishabisht.github.io/static/js/main.8c8175cf.js",
+    "static/media/proj-light-lunarops.png": "/tanishabisht.github.io/static/media/proj-light-lunarops.88c6c67b170d7f8932f7.png",
+    "static/media/proj-lunarOps.png": "/tanishabisht.github.io/static/media/proj-lunarOps.168b810b5baf9d549629.png",
+    "static/media/dark_me.png": "/tanishabisht.github.io/static/media/dark_me.7f0cd5530220faae92ed.png",
+    "static/media/light_me.png": "/tanishabisht.github.io/static/media/light_me.7f0cd5530220faae92ed.png",
+    "static/media/proj-light-eureka.png": "/tanishabisht.github.io/static/media/proj-light-eureka.decc769e32bf83e9f421.png",
+    "static/media/proj-eureka.png": "/tanishabisht.github.io/static/media/proj-eureka.0ba44222b07520fd36b7.png",
+    "index.html": "/tanishabisht.github.io/index.html",
+    "main.e6a5d8e7.css.map": "/tanishabisht.github.io/static/css/main.e6a5d8e7.css.map",
+    "main.8c8175cf.js.map": "/tanishabisht.github.io/static/js/main.8c8175cf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6a5d8e7.css",
+    "static/js/main.8c8175cf.js"
+  ]
+}
