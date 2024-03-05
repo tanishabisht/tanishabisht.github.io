@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.59f36b53.css",
-    "main.js": "./static/js/main.2bbcd66c.js",
+    "main.css": "./static/css/main.b175c5fe.css",
+    "main.js": "./static/js/main.928e03a2.js",
     "static/media/proj-light-lunarops.png": "./static/media/proj-light-lunarops.88c6c67b170d7f8932f7.png",
     "static/media/proj-lunarOps.png": "./static/media/proj-lunarOps.168b810b5baf9d549629.png",
     "static/media/dark_me.png": "./static/media/dark_me.7f0cd5530220faae92ed.png",
@@ -9,12 +9,13 @@
     "static/media/proj-light-eureka.png": "./static/media/proj-light-eureka.decc769e32bf83e9f421.png",
     "static/media/proj-eureka.png": "./static/media/proj-eureka.0ba44222b07520fd36b7.png",
     "static/media/favicon.ico": "./static/media/favicon.718596b7d529e108b6f7.ico",
+    "static/media/icon-docker.png": "./static/media/icon-docker.0755571c47b5929c7740.png",
     "index.html": "./index.html",
-    "main.59f36b53.css.map": "./static/css/main.59f36b53.css.map",
-    "main.2bbcd66c.js.map": "./static/js/main.2bbcd66c.js.map"
+    "main.b175c5fe.css.map": "./static/css/main.b175c5fe.css.map",
+    "main.928e03a2.js.map": "./static/js/main.928e03a2.js.map"
   },
   "entrypoints": [
-    "static/css/main.59f36b53.css",
-    "static/js/main.2bbcd66c.js"
+    "static/css/main.b175c5fe.css",
+    "static/js/main.928e03a2.js"
   ]
 }
